@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <meta charset="UTF-8">
+            <title>商家資訊</title>
+        </head>
+        <body>
+            <br>
+            <h3><br>商家資訊<br></h3>
+            <br><A HREF=足療資訊.html>足療</A><br>
+            <br><A HREF=按摩資訊.html>按摩</A><br>
+            <br><A HREF=瑜珈資訊.html>瑜珈</A><br>
+            <br><A HREF=藥局資訊.html>藥局</A><br>
+            <br><A HREF=診所資訊.html>診所</A><br>
+            <br><A HREF=其他服務機構資訊.html>其他服務機構</A><br>
+        </body>
